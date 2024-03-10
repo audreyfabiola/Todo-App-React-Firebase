@@ -54,7 +54,7 @@ export default function Login() {
       toast.success("Google login successful!");
       console.log("Redirecting to /todo...");
       // Redirect to welcome page after successful login
-      navigate("/");
+      navigate("/homepage");
     } catch (error) {
       console.error("Error logging in with Google:", error);
       toast.error("Error logging in with Google");
