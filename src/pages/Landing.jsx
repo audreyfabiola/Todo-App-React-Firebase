@@ -36,7 +36,7 @@ export default function Landing() {
         <div className="mb-4">
           <Link to="/profile">
             <button className="bg-pink-500 hover:bg-pink-700 text-white font-bold py-2 px-4 rounded-full block">
-              Account Settings
+              Profile Settings
             </button>
           </Link>
         </div>
