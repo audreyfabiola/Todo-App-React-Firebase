@@ -39,12 +39,6 @@ This is a simple Todo List application where users can manage their tasks effect
 
 ![Landing-page](/assets/Login-page.png)
 
-**Login Page with Toasts**
-
-![Todolist-page](/assets/Login2-page.png)
-
-![Todolist-page](/assets/Login3-page.png)
-
 **Sign Up Page**
 
 ![Todolist-page](/assets/Signup-page.png)
