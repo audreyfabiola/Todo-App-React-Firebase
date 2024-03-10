@@ -94,7 +94,7 @@ function Todo() {
       </Link>
     </div>
     <div className="absolute top-0 right-0 mt-4 mr-4 flex items-center">
-    <h2 className="text-2xl font-semibold text-pink-500 mr-2">{username || "User"}</h2>
+    <h2 className="text-2xl font-semibold text-pink-300 mr-2">{username || "User"}</h2>
         {profilePictureURL ? (
             <img
                 src={profilePictureURL}
